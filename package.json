@@ -2,7 +2,7 @@
   "name": "simple-qtable",
   "version": "0.0.1",
   "description": "Simple Quasar Table",
-  "productName": "Simple Quasar Table",
+  "productName": "QTable",
   "author": "achdiathadit <achdiat.dev@gmail.com>",
   "private": true,
   "scripts": {
