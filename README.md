@@ -1,6 +1,6 @@
 # Quasar App (simple-qtable)
 
-Simple Quasar Table
+A Quasar Framework app
 
 ## Install the dependencies
 ```bash
